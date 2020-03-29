@@ -1,0 +1,2 @@
+rootProject.name='dataSaveReadDelete'
+include ':app'
